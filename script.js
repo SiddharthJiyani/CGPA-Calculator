@@ -66,7 +66,7 @@ let courses = {
     "CS":3,
     "IDS":3,
     "SE":3,
-    "ISD(L)":3,
+    "ISD(L)":2,
     "PE-1":3,
     "PE-2":3,
     "PE-3":3,
